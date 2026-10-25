@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$8.16,$8.16,https://cart.jlcpcb.com/shopcart/cart/
+ESP32-S3 zero,1,WaveShare,$5.49,$5.49,https://www.waveshare.com/esp32-s3-zero.htm?sku=25081
 Estimated total shipping,1,,,$0.00,
