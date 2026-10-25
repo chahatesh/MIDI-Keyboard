@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,4,SK6812MINI-E,
+J1,Hex-Keys,1,CTB,
+"RV2, RV3",Potentiometer_Bourns_PTA1543_Single_Slide,2,R_Potentiometer_MountingPin,
+"SW1, SW2",Kailh Choc Low-Profile Switches,2,SW_Push,
+SW3,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles,1,RotaryEncoder_Switch_MP,
+U1,Waveshare ESP32-S3-Zero,1,Waveshare ESP32-S3-ZERO,
