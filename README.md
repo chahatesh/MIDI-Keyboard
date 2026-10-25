@@ -98,7 +98,7 @@ You can experiment with different firmware, customize the controls, and use it f
 
 The CAD model for this project is available on Onshape.
 
-**[View the Onshape CAD Model](https://cad.onshape.com/documents/587d2ace9f77041b4f50040f/w/845a50b27325c4e045b03186/e/2a77872a340160e4eacdba4f)**
+(https://cad.onshape.com/documents/587d2ace9f77041b4f50040f/w/845a50b27325c4e045b03186/e/2a77872a340160e4eacdba4f?renderMode=0&uiState=6ade809f7d59ddcf278d1ba7)
 
 You can use this model to view the mechanical design, check dimensions, and understand how the parts fit together.
 
